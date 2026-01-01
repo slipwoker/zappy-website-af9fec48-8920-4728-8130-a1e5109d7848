@@ -1,0 +1,57 @@
+# שרוכים — Generative Engine Optimization Map
+
+> A קמעונאות - אופנה והנעלה business.
+
+---
+
+## Pages
+
+### בית
+https://-af9fec48.zappy5.app
+חנות נעליים מובילה בישראל עם מבחר עצום של נעליים ממותגות במחיר טוב. קניית נעליים אונליין משלוח חינם לכל הארץ. איכות, סטייל ונוחות במקום אחד!
+
+### המוצרים שלנו
+https://-af9fec48.zappy5.app/products
+גלו את מגוון הנעליים הרחב שלנו! נעליים ממותגות במחיר טוב לנשים וגברים. חנות נעליים אונליין ישראל עם משלוח חינם. הזמינו עכשיו ותהנו מאיכות מעולה!
+
+### אודות
+https://-af9fec48.zappy5.app/about
+הכירו את שרוכים - חנות נעליים אונליין ישראל המובילה. הסיפור שלנו, הערכים שלנו והמחויבות שלנו להציע נעליים ממותגות במחיר טוב עם שירות יוצא מן הכלל.
+
+### צור קשר
+https://-af9fec48.zappy5.app/contact
+צרו קשר עם חנות נעליים המובילה בישראל. נשמח לעזור לכם למצוא את הנעליים המושלמות, לענות על שאלות ולספק ייעוץ מקצועי. קניית נעליים אונליין משלוח חינם!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-af9fec48.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-af9fec48.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-af9fec48.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שרוכים
+שרוכים is a business in the קמעונאות - אופנה והנעלה industry.
+
+## Target Audience
+נשים וגברים
+
+## Industry
+קמעונאות - אופנה והנעלה
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-af9fec48.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-af9fec48.zappy5.app/robots.txt
