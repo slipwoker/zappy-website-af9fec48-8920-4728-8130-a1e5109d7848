@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://sruchim.zappy5.app
+https://zappy-site-af9fec48-8920-4728-8130.onrender.com
 חנות נעליים מובילה בישראל עם מבחר עצום של נעליים ממותגות במחיר טוב. קניית נעליים אונליין משלוח חינם לכל הארץ. איכות, סטייל ונוחות במקום אחד!
 
 ### המוצרים שלנו
-https://sruchim.zappy5.app/products
+https://zappy-site-af9fec48-8920-4728-8130.onrender.com/products
 גלו את מגוון הנעליים הרחב שלנו! נעליים ממותגות במחיר טוב לנשים וגברים. חנות נעליים אונליין ישראל עם משלוח חינם. הזמינו עכשיו ותהנו מאיכות מעולה!
 
 ### אודות
-https://sruchim.zappy5.app/about
+https://zappy-site-af9fec48-8920-4728-8130.onrender.com/about
 הכירו את שרוכים - חנות נעליים אונליין ישראל המובילה. הסיפור שלנו, הערכים שלנו והמחויבות שלנו להציע נעליים ממותגות במחיר טוב עם שירות יוצא מן הכלל.
 
 ### צור קשר
-https://sruchim.zappy5.app/contact
+https://zappy-site-af9fec48-8920-4728-8130.onrender.com/contact
 צרו קשר עם חנות נעליים המובילה בישראל. נשמח לעזור לכם למצוא את הנעליים המושלמות, לענות על שאלות ולספק ייעוץ מקצועי. קניית נעליים אונליין משלוח חינם!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://sruchim.zappy5.app/privacy
+https://zappy-site-af9fec48-8920-4728-8130.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://sruchim.zappy5.app/terms
+https://zappy-site-af9fec48-8920-4728-8130.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://sruchim.zappy5.app/accessibility
+https://zappy-site-af9fec48-8920-4728-8130.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -53,5 +53,5 @@ Information about WCAG compliance and accessibility features.
 
 # Additional Resources
 
-- **Sitemap**: https://sruchim.zappy5.app/sitemap.xml
-- **Robots.txt**: https://sruchim.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-af9fec48-8920-4728-8130.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-af9fec48-8920-4728-8130.onrender.com/robots.txt

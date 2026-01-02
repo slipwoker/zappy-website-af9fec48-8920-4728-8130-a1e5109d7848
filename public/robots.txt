@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sruchim.zappy5.app/sitemap.xml
+Sitemap: https://zappy-site-af9fec48-8920-4728-8130.onrender.com/sitemap.xml
